@@ -1,5 +1,9 @@
+* {
+    margin: 30px;
+}
+
 h1 {
-    color: #0000ff;
+    color: #000000;
 }
 h3 {
     background-color: rgba(0, 255, 0, 0.3);
@@ -7,4 +11,18 @@ h3 {
 img {
     height: auto;
     width: 500px;
+}
+.homeh1 {
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+div {
+    background-color: thistle;
+    width: 400px;
+    margin: auto;
+    padding: 20px;
+}
+button {
+    padding: 5px;
+    font-weight: bold;
 }
